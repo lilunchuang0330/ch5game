@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\VB\ch5game\obj\Debug\ch5game.vbproj.AssemblyReference.cache
+C:\Users\HP\Desktop\VB\ch5game\obj\Debug\ch5game.vbproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\VB\ch5game\obj\Debug\ch5game.Form1.resources
+C:\Users\HP\Desktop\VB\ch5game\obj\Debug\ch5game.Resources.resources
+C:\Users\HP\Desktop\VB\ch5game\obj\Debug\ch5game.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\VB\ch5game\obj\Debug\ch5game.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\VB\ch5game\bin\Debug\ch5game.exe.config
+C:\Users\HP\Desktop\VB\ch5game\bin\Debug\ch5game.exe
+C:\Users\HP\Desktop\VB\ch5game\bin\Debug\ch5game.pdb
+C:\Users\HP\Desktop\VB\ch5game\bin\Debug\ch5game.xml
+C:\Users\HP\Desktop\VB\ch5game\obj\Debug\ch5game.exe
+C:\Users\HP\Desktop\VB\ch5game\obj\Debug\ch5game.xml
+C:\Users\HP\Desktop\VB\ch5game\obj\Debug\ch5game.pdb
